@@ -1,1 +1,7 @@
 Third text file
+
+third text in file second line.
+
+third text file third line.
+
+fourth line
